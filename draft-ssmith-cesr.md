@@ -16,7 +16,7 @@ pi: [toc, sortrefs, symrefs]
 
 author:
   -
-    name: S. Smith
+    name: Samuel M. Smith
     organization: ProSapien LLC
     email: sam@prosapien.com
 
