@@ -2,7 +2,7 @@
 
 
 
-TODO Working Group                                              S. Smith
+TODO Working Group                                           S. M. Smith
 Internet-Draft                                             ProSapien LLC
 Intended status: Informational                             29 March 2023
 Expires: 30 September 2023
@@ -2333,6 +2333,6 @@ Acknowledgments
 
 Author's Address
 
-   S. Smith
+   Samuel M. Smith
    ProSapien LLC
    Email: sam@prosapien.com
